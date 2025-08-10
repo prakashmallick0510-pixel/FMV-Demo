@@ -1,4 +1,4 @@
-# FMV-Demo
+# Financial Modelling and Valuation
 **Asian Paints Ltd. – Comprehensive Financial Analysis & Valuation**
 
 This report presents an in-depth financial analysis, forecasting, and valuation study of Asian Paints Ltd., covering multiple dimensions of corporate finance, market evaluation, and risk assessment. It is structured to give analysts, students, and investors a clear, methodical view of the company’s financial health and future prospects.
