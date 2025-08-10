@@ -87,7 +87,7 @@ This report presents an in-depth financial analysis, forecasting, and valuation 
 •	Measures financial distress probability.
 
 
-This report serves as a complete financial toolkit for analyzing Asian Paints Ltd., combining academic rigor with practical investment insights. It is suitable for:
+**This report serves as a complete financial toolkit for analyzing Asian Paints Ltd., combining academic rigor with practical investment insights. It is suitable for:**
 
 •	Finance students preparing case studies
 
