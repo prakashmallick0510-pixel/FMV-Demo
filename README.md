@@ -4,12 +4,11 @@ Financial Modelling and Valuation
 This report presents an in-depth financial analysis, forecasting, and valuation study of Asian Paints Ltd., covering multiple dimensions of corporate finance, market evaluation, and risk assessment. It is structured to give analysts, students, and investors a clear, methodical view of the company’s financial health and future prospects.
 
 **1. One Page Profile** - A concise company snapshot covering
-
-o	Company background
-o	Key products & services
-o	Management overview
-o	Major markets and operations footprint
-o	Strategic highlights
+• Company background
+• Key products & services
+• Management overview
+• Major markets and operations footprint
+• Strategic highlights
 
 **2. Calculation of Intrinsic Growth**
 •	Determines the company’s sustainable growth rate using return on equity (ROE) and retention ratio.
